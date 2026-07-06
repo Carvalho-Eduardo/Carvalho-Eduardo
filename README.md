@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/e-duardo-carvalho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:e.duardo.carvalho@outlook.com?subject=Contato%20via%20GitHub&body=Ol%C3%A1%20Eduardo%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar!"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail" /></a>
+  <a href="mailto:e.duardo.carvalho@outlook.comsubject=%5BGitHub%5D%20Contato%20Geral%20%20Tratar%20sobre&body=Ol%C3%A1%2C%0A%0AEstou%20entrando%20em%20contato%20a%20partir%20do%20GitHub%20para%20conversarmos%20sobre%20um%20novo%20assunto.%0A%0A1.%20Qual%20%C3%A9%20o%20assunto%20principal%3F%0A%5BInsira%20o%20tema%20aqui%5D%0A%0A2.%20Detalhes%20ou%20proposta%3F%0A%5BDescreva%20brevemente%20o%20que%20precisa%20ou%20prop%C3%B5e%5D%0A%0AAtenciosamente%2C%0A%5BSeu%20Nome%20%2F%20Seu%20Usu%C3%A1rio%5D"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail" /></a>
   <a href="https://instagram.com/eduardocarvalho.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
