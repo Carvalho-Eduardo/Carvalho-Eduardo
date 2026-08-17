@@ -1,4 +1,4 @@
-# 👋 Olá mundo, eu sou o Eduardo Carvalho!
+# 👋 Olá Mundo, eu sou o Eduardo Carvalho!
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJpM2Njd2Z4ZndpZzR0bndpaXN5ZnMzdnZwbW95YzA1M2V4ZHpxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZVik7pBtu9dNS/giphy.gif" width="180" alt="Animação de Boas-Vindas" />
@@ -6,7 +6,7 @@
 
 <p align="center">
   <samp>
-    🚀 Desenvolvedor Backend<br />
+    🚀 Desenvolvedor Full-Stack<br />
     🎯 Focado em criar soluções eficientes e escaláveis.
   </samp>
 </p>
@@ -24,20 +24,25 @@
 *   💼 Atualmente focado em estudos e projetos pessoais de programação.
 *   🌱 No momento, estou aprimorando meus conhecimentos no ecossistema **.NET (C# e Blazor)**.
 *   💬 Pergunte-me sobre: **Lógica de Programação, HTML/CSS e o que venho aprendendo no back-end**.
-*   ⚡ Curiosidade: Amo tecnologia e odeio café.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 Linguagens & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/blazor-%23512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
-  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.JS" />
+
+<p align="left"> 
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /> 
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> 
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> 
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> 
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" /> 
+  <img src="https://img.shields.io/badge/Blazor-%23512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" /> 
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.JS" /> 
 </p>
+
+
 
 ### ⚙️ Ferramentas & Infraestrutura
 <p align="left">
@@ -46,6 +51,16 @@
   <img src="https://img.shields.io/badge/GitHub_Desktop-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
+
+### 🗄️ Bancos de Dados
+
+<p align="left"> 
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> 
+</p>
+
+
 
 ---
 
